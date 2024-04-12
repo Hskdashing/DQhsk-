@@ -1,7 +1,13 @@
-pymongo
-dnspython==2.3.0
-marshmallow==3.20.1
-umongo
-motor==3.0.0
+pyrogram
+tgcrypto
+pymongo[srv]==
+motor==
+marshmallow==
+umongo==
+requests
+bs4
+datetime
+pytz
+aiohttp0
 git+https://github.com/Joelkb/cinemagoer
 
