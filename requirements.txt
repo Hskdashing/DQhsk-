@@ -1,12 +1,7 @@
-pyrogram==2.0.106
-tgcrypto==1.2.5
-pymongo==
-motor==3.0.0
+pymongo
+dnspython==2.3.0
 marshmallow==3.20.1
-umongo==3.1.0
-requests
-bs4==0.0.1
+umongo
+motor==3.0.0
 git+https://github.com/Joelkb/cinemagoer
-datetime
-pytz
-aiohttp==3.8.3
+
